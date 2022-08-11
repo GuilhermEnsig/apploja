@@ -1,6 +1,6 @@
 Sistema de Loja virtual
-Desevolvido em java com Spring Boot e JPA
-Com bancos de dados postgres
+Desevolvido em java 12 com Spring Boot 7 e JPA 8
+Com bancos de dados postgres vr12
 
 
 
